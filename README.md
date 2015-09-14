@@ -6,7 +6,7 @@ Run this command in lib folder:
   GenDataForCMU [options ...] [arguments ...] </br>
  -rmMarks   : specify whether to remove marks character (default: false)  </br>
  -test VAL  : specify input test file  </br>
- -train VAL : specify input test file  </br>
+ -train VAL : specify input train file  </br>
 
 
  - For Windows: <br/>
@@ -14,6 +14,6 @@ Run this command in lib folder:
   GenDataForCMU [options ...] [arguments ...]  </br>
  -rmMarks   : specify whether to remove marks character (default: false)  </br>
  -test VAL  : specify input test file  </br>
- -train VAL : specify input test file  </br>
+ -train VAL : specify input train file  </br>
 
 **NOTE:** This project is built in Java 1.7
